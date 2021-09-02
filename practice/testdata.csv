@@ -1,0 +1,4 @@
+date,confirmed,average_temp,highest_temp,lowest_temp,average_cloud,precipitation
+2020-07-01,1200,23,31,21,2,20
+2020-07-02,1400,24,27,21,10,30
+2020-07-03,1700,34,37,30,20,40
